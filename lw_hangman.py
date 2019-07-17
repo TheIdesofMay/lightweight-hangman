@@ -70,11 +70,3 @@ if "_" not in progress_string:
 # loss message
 if n==5:
 	print("That's your last guess! Better luck next time. The word was '{}'\n".format(current_word))
-
-
-
-
-
-
-
-
